@@ -4,3 +4,4 @@ foreach($arr as $b)
 {
     alert($b,1);
 }
+?>
